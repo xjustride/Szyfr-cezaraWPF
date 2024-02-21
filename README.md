@@ -18,7 +18,7 @@ This application is a WPF (Windows Presentation Foundation) desktop app develope
 ## Installation
 
 1. **Clone the repository**: First, clone the repo to your local machine using Git.
-   git clone https://github.com/your-repo/caesar-cipher-wpf.git
+   git clone https://github.com/xjustride/Szyfr-cezaraWPF.git
 
 2. **Open the project**: Open the `.sln` file in Visual Studio or your preferred IDE that supports .NET 6.0 development.
 
